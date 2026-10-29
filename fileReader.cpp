@@ -15,6 +15,8 @@ int fileReader()
   else
   {
     std::cout << "Opening ""plants.txt""... \n";
+    std::istringstream input;
+    
   }
   return 0;
 }
